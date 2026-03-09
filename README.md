@@ -32,7 +32,7 @@ To run these notebooks locally on your machine, clone this repository and instal
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/your-username/DL-projects.git
+git clone https://github.com/MikeTX56/DL-projects.git
 cd DL-projects
 ```
 
