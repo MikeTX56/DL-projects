@@ -1,8 +1,8 @@
-# Deep Learning Projects 🧠
+# Deep Learning Projects
 
 A collection of foundational and intermediate Deep Learning projects implemented using **Python, TensorFlow, and Keras**. This repository serves as a practical guide to understanding neural networks, from basic concepts to building complete classification pipelines.
 
-## 📂 Repository Structure
+## Repository Structure
 
 ### 1. Multi-Layer Perceptron (MLP)
 **Location:** `/MLP/mlp.ipynb`
@@ -19,14 +19,14 @@ An end-to-end implementation of an Artificial Neural Network for image classific
 
 A foundational notebook demonstrating how to use the TensorFlow/Keras framework to solve simple linear regression problems. Great for understanding the basics of neurons, weights, biases, and the fundamental Keras `Sequential` API before moving on to deep networks.
 
-## 🛠️ Technologies Used
+## Technologies Used
 * **Python 3.x**
 * **TensorFlow & Keras** (Model building and training)
 * **NumPy** (Linear algebra and array manipulation)
 * **Pandas** (Data handling and training history extraction)
 * **Matplotlib** (Data visualization and evaluating learning curves)
 
-## 🚀 Getting Started
+## Getting Started
 
 To run these notebooks locally on your machine, clone this repository and install the required dependencies.
 
@@ -47,6 +47,3 @@ Open the repository in VS Code (which natively supports Jupyter Notebooks) or ru
 ```bash
 jupyter notebook
 ```
-
-## 📈 Future Projects
-*(Add your future goals here, such as Convolutional Neural Networks (CNNs) for advanced image handling, Recurrent Neural Networks (RNNs) for text, etc.)*
